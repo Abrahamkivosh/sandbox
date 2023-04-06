@@ -27,3 +27,10 @@ strong {
 em {
     font-style: italic;
 }
+a{
+    color: #4544a8;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
